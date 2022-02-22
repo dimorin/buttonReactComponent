@@ -1,5 +1,8 @@
 # Button REACT Component 
 ![screenshot](./screenshot.png)
+<br>
+참고 색상 [open-color](https://yeun.github.io/open-color/)
+
 ## install
 ### SCSS
 ```bash
