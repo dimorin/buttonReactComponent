@@ -1,3 +1,19 @@
+# Button REACT Component 
+![screenshot](./screenshot.png)
+## install
+### SCSS
+```bash
+npm i node-sass
+```
+### classnames
+```bash
+npm i classnames
+```
+### react-icons
+```bash
+npm i react-icons
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
